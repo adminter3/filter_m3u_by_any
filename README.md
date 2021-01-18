@@ -4,4 +4,4 @@ The script contains the list `valid_filer` with the groups that you wish to be t
 
 The new file will be created and located in the same folder as the script directory.
 
-run `python read_m3u_and_write_to_another.y -h` and se how to witch arguments are available.
+run `python read_m3u_and_write_to_another.y -h` and se how whitch arguments are available.
